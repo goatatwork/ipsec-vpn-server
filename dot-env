@@ -1,0 +1,5 @@
+VPN_IPSEC_PSK=<preshared-key>
+VPN_USER=<username>
+VPN_PASSWORD=<vpn-user-password>
+VPN_DNS_SRV1=8.8.8.8
+VPN_DNS_SRV2=1.1.1.1
